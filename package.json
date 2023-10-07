@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.414.0",
+    "@types/node": "^20.8.3"
+  }
+}
